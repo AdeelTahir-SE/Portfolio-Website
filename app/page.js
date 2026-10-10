@@ -182,9 +182,10 @@ export default function Home() {
           <div className="flex items-center gap-4">
             <span className="font-bold text-sm uppercase tracking-wider">FIND ME ON</span>
             <div className="flex gap-4">
-              <a href="#" className="text-2xl text-gray-600 hover:text-gray-900 transition-colors"><Github size={24} /></a>
-              <a href="#" className="text-2xl text-gray-600 hover:text-[#0077b5] transition-colors"><Linkedin size={24} /></a>
-              <a href="#" className="text-2xl text-gray-600 hover:text-[#1da1f2] transition-colors"><Twitter size={24} /></a>
+              
+              <a href="https://github.com/AdeelTahir-SE/" className="text-2xl text-gray-600 hover:text-gray-900 transition-colors"><Github size={24} /></a>
+              <a href="https://www.linkedin.com/in/adeel-tahir-fullstackdeveloper/" className="text-2xl text-gray-600 hover:text-[#0077b5] transition-colors"><Linkedin size={24} /></a>
+              <a href="https://x.com/AdeelTahir56485" className="text-2xl text-gray-600 hover:text-[#1da1f2] transition-colors"><Twitter size={24} /></a>
             </div>
           </div>
         </div>
