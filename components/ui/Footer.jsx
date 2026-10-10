@@ -33,9 +33,7 @@ export default function Footer() {
               <a href="https://linkedin.com/in/adeeltahir" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center text-white hover:bg-[#c9f31d] hover:text-[#1a1a1a] transition-all">
                 <Linkedin size={18} />
               </a>
-              <a href="https://instagram.com/adeeltahir" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center text-white hover:bg-[#c9f31d] hover:text-[#1a1a1a] transition-all">
-                <Instagram size={18} />
-              </a>
+           
               {/* <a href="https://upwork.com" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center hover:bg-[#c9f31d] transition-all overflow-hidden">
                 <Image src={upwork} alt="Upwork" width={24} height={24} className="object-contain" />
               </a>
@@ -63,9 +61,7 @@ export default function Footer() {
             <h4 className="text-white font-bold mb-6 tracking-widest text-sm" style={{ fontFamily: 'var(--font-mono)' }}>OTHER</h4>
             <ul className="flex flex-col gap-3">
               <li><Link href="/Experience" className="text-gray-400 hover:text-[#c9f31d] transition-colors">Experience</Link></li>
-              <li><Link href="/#testimonials" className="text-gray-400 hover:text-[#c9f31d] transition-colors">Testimonials</Link></li>
-              <li><Link href="/terms" className="text-gray-400 hover:text-[#c9f31d] transition-colors">Terms of Service</Link></li>
-              <li><Link href="/privacy" className="text-gray-400 hover:text-[#c9f31d] transition-colors">Privacy Policy</Link></li>
+
             </ul>
           </div>
 
@@ -75,7 +71,7 @@ export default function Footer() {
                <h4 className="text-white font-bold mb-2 tracking-widest text-sm" style={{ fontFamily: 'var(--font-mono)' }}>LET&apos;S CONNECT</h4>
                <p className="text-gray-400 text-sm">Feel free to reach out for collaborations or just a friendly hello.</p>
              </div>
-             <a href="mailto:contact@adeeltahir.com" className="inline-block bg-[#c9f31d] text-[#1a1a1a] font-bold py-3 px-8 rounded-sm hover:bg-[#b0d619] transition-colors uppercase text-sm tracking-wider" style={{ fontFamily: 'var(--font-mono)' }}>
+             <a href="mailto:adeeltahir6a@gmail.com" className="inline-block bg-[#c9f31d] text-[#1a1a1a] font-bold py-3 px-8 rounded-sm hover:bg-[#b0d619] transition-colors uppercase text-sm tracking-wider" style={{ fontFamily: 'var(--font-mono)' }}>
                Email Me
              </a>
           </div>

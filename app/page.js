@@ -407,7 +407,7 @@ export default function Home() {
               </div>
               <div>
                 <h4 className="font-bold text-sm text-gray-500 mb-1">EMAIL</h4>
-                <p className="font-semibold text-lg">adeel.tahir@example.com</p>
+                <p className="font-semibold text-lg">adeeltahir6a@gmail.com</p>
               </div>
             </div>
             
@@ -417,7 +417,7 @@ export default function Home() {
               </div>
               <div>
                 <h4 className="font-bold text-sm text-gray-500 mb-1">PHONE</h4>
-                <p className="font-semibold text-lg">+1 (555) 123-4567</p>
+                <p className="font-semibold text-lg">03334062285</p>
               </div>
             </div>
 
@@ -427,7 +427,7 @@ export default function Home() {
               </div>
               <div>
                 <h4 className="font-bold text-sm text-gray-500 mb-1">LOCATION</h4>
-                <p className="font-semibold text-lg">Lahore, Pakistan</p>
+                <p className="font-semibold text-lg">Islamabad, Pakistan</p>
               </div>
             </div>
 
