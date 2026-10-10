@@ -27,12 +27,15 @@ export default function Footer() {
               Building fast, modern and scalable web applications with a focus on user experience and clean code.
             </p>
             <div className="flex items-center gap-4">
-              <a href="https://github.com/adeeltahir" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center text-white hover:bg-[#c9f31d] hover:text-[#1a1a1a] transition-all">
+              <a href="https://github.com/AdeelTahir-SE/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center text-white hover:bg-[#c9f31d] hover:text-[#1a1a1a] transition-all">
                 <Github size={18} />
               </a>
-              <a href="https://linkedin.com/in/adeeltahir" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center text-white hover:bg-[#c9f31d] hover:text-[#1a1a1a] transition-all">
+              <a href="https://www.linkedin.com/in/adeel-tahir-fullstackdeveloper/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center text-white hover:bg-[#c9f31d] hover:text-[#1a1a1a] transition-all">
                 <Linkedin size={18} />
               </a>
+              
+
+
            
               {/* <a href="https://upwork.com" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-[#2a2a2a] flex items-center justify-center hover:bg-[#c9f31d] transition-all overflow-hidden">
                 <Image src={upwork} alt="Upwork" width={24} height={24} className="object-contain" />
